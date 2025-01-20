@@ -45,7 +45,7 @@
         <LayoutDisplay102Key>0</LayoutDisplay102Key>
         <DebugDefaultFont>1</DebugDefaultFont>
         <DebugFont>FreeMonoTengwar|9|   |0</DebugFont>
-        <CodeFont>FreeMonoTengwar-embedding|9|   |0</CodeFont>
+        <CodeFont>FreeMonoTengwar|9|   |0</CodeFont>
         <CharFont>FreeMonoTengwar|9|   |0</CharFont>
       </IDEState>
       <Debug>False</Debug>
