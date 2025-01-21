@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
   <ViewState>
-    <tab>1</tab>
+    <tab>3</tab>
     <showhelp>1</showhelp>
     <path>D:\tengwar\tengwar.kpj</path>
+    <file ID="id_43e91519fb7f2d6af29e6597ee253fc0" Expanded="1"/>
   </ViewState>
   <FileStates>
     <FileState>
@@ -53,10 +54,18 @@
     <FileState>
       <ID>id_43e91519fb7f2d6af29e6597ee253fc0</ID>
       <FullPath>D:\tengwar\source\tengwar.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
     </FileState>
     <FileState>
       <ID>id_9319bd094e562b5f82e827eed8a6b332</ID>
       <FullPath>D:\tengwar\source\tengwar.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_e46ec5dd2be78890df8ee8fb3c588e72</ID>
+      <FullPath>D:\tengwar\source\TengwarFormalCSUR.ttf</FullPath>
     </FileState>
     <FileState>
       <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
@@ -82,6 +91,12 @@
   <MRU>
     <File>
       <ID>id_MRU0</ID>
+      <Filename>tengwar.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>D:\tengwar\source\tengwar.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
       <Filename>tengwar.kmn</Filename>
       <FileType>.kmn</FileType>
       <FullPath>D:\tengwar\source\tengwar.kmn</FullPath>

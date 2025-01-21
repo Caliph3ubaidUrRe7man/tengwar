@@ -33,7 +33,7 @@ function Keyboard_tengwar()
     }
     return result;
   })(this.KV.KLS);
-  this.KDU=0;
+  this.KDU=1;
   this.KH='';
   this.KM=0;
   this.KBVER="1.0";
@@ -97,10 +97,10 @@ function Keyboard_tengwar()
                 "text": ""
               },
               {
-                "width": "100",
                 "id": "K_BKSP",
-                "sp": "1",
-                "text": "*BkSp*"
+                "text": "*BkSp*",
+                "width": "100",
+                "sp": "1"
               }
             ]
           },
@@ -109,8 +109,8 @@ function Keyboard_tengwar()
             "key": [
               {
                 "id": "K_Q",
-                "pad": "75",
-                "text": "჻"
+                "text": "჻",
+                "pad": "75"
               },
               {
                 "id": "K_W",
@@ -157,6 +157,7 @@ function Keyboard_tengwar()
                 "text": ""
               },
               {
+                "id": "T_new_250",
                 "width": "10",
                 "sp": "10"
               }
@@ -223,10 +224,10 @@ function Keyboard_tengwar()
             "id": "4",
             "key": [
               {
-                "width": "160",
                 "id": "K_SHIFT",
-                "sp": "1",
-                "text": "*Shift*"
+                "text": "*Shift*",
+                "width": "160",
+                "sp": "1"
               },
               {
                 "id": "K_oE2"
@@ -272,6 +273,7 @@ function Keyboard_tengwar()
                 "text": ""
               },
               {
+                "id": "T_new_276",
                 "width": "10",
                 "sp": "10"
               }
@@ -281,11 +283,11 @@ function Keyboard_tengwar()
             "id": "5",
             "key": [
               {
-                "nextlayer": "alt",
-                "width": "130",
                 "id": "K_LCONTROL",
-                "sp": "1",
                 "text": "alt",
+                "width": "130",
+                "sp": "1",
+                "nextlayer": "alt",
                 "sk": [
                   {
                     "nextlayer": "alt",
@@ -302,20 +304,20 @@ function Keyboard_tengwar()
                 ]
               },
               {
-                "width": "140",
                 "id": "K_LOPT",
-                "sp": "1",
-                "text": "*Menu*"
+                "text": "*Menu*",
+                "width": "140",
+                "sp": "1"
               },
               {
-                "width": "930",
-                "id": "K_SPACE"
+                "id": "K_SPACE",
+                "width": "930"
               },
               {
-                "width": "145",
                 "id": "K_ENTER",
-                "sp": "1",
-                "text": "*Enter*"
+                "text": "*Enter*",
+                "width": "145",
+                "sp": "1"
               }
             ]
           }
@@ -376,10 +378,10 @@ function Keyboard_tengwar()
                 "text": "’"
               },
               {
-                "width": "100",
                 "id": "K_BKSP",
-                "sp": "1",
-                "text": "*BkSp*"
+                "text": "*BkSp*",
+                "width": "100",
+                "sp": "1"
               }
             ]
           },
@@ -388,8 +390,8 @@ function Keyboard_tengwar()
             "key": [
               {
                 "id": "K_Q",
-                "pad": "75",
-                "text": "⁝"
+                "text": "⁝",
+                "pad": "75"
               },
               {
                 "id": "K_W",
@@ -434,6 +436,7 @@ function Keyboard_tengwar()
                 "id": "K_RBRKT"
               },
               {
+                "id": "T_new_306",
                 "width": "10",
                 "sp": "10"
               }
@@ -499,10 +502,10 @@ function Keyboard_tengwar()
             "id": "4",
             "key": [
               {
-                "width": "160",
                 "id": "K_SHIFT",
-                "sp": "1",
-                "text": "*Shift*"
+                "text": "*Shift*",
+                "width": "160",
+                "sp": "1"
               },
               {
                 "id": "K_oE2"
@@ -547,6 +550,7 @@ function Keyboard_tengwar()
                 "text": ""
               },
               {
+                "id": "T_new_332",
                 "width": "10",
                 "sp": "10"
               }
@@ -556,11 +560,11 @@ function Keyboard_tengwar()
             "id": "5",
             "key": [
               {
-                "nextlayer": "alt",
-                "width": "130",
                 "id": "K_LCONTROL",
-                "sp": "1",
                 "text": "alt",
+                "width": "130",
+                "sp": "1",
+                "nextlayer": "alt",
                 "sk": [
                   {
                     "nextlayer": "alt",
@@ -577,20 +581,20 @@ function Keyboard_tengwar()
                 ]
               },
               {
-                "width": "140",
                 "id": "K_LOPT",
-                "sp": "1",
-                "text": "*Menu*"
+                "text": "*Menu*",
+                "width": "140",
+                "sp": "1"
               },
               {
-                "width": "930",
-                "id": "K_SPACE"
+                "id": "K_SPACE",
+                "width": "930"
               },
               {
-                "width": "145",
                 "id": "K_ENTER",
-                "sp": "1",
-                "text": "*Enter*"
+                "text": "*Enter*",
+                "width": "145",
+                "sp": "1"
               }
             ]
           }
@@ -642,10 +646,10 @@ function Keyboard_tengwar()
                 "id": "K_EQUAL"
               },
               {
-                "width": "100",
                 "id": "K_BKSP",
-                "sp": "1",
-                "text": "*BkSp*"
+                "text": "*BkSp*",
+                "width": "100",
+                "sp": "1"
               }
             ]
           },
@@ -654,8 +658,8 @@ function Keyboard_tengwar()
             "key": [
               {
                 "id": "K_Q",
-                "pad": "75",
-                "text": ";"
+                "text": ";",
+                "pad": "75"
               },
               {
                 "id": "K_W",
@@ -701,6 +705,7 @@ function Keyboard_tengwar()
                 "text": "!"
               },
               {
+                "id": "T_new_362",
                 "width": "10",
                 "sp": "10"
               }
@@ -765,10 +770,10 @@ function Keyboard_tengwar()
             "id": "4",
             "key": [
               {
-                "width": "160",
                 "id": "K_SHIFT",
-                "sp": "1",
-                "text": "*Shift*"
+                "text": "*Shift*",
+                "width": "160",
+                "sp": "1"
               },
               {
                 "id": "K_oE2"
@@ -811,6 +816,7 @@ function Keyboard_tengwar()
                 "id": "K_SLASH"
               },
               {
+                "id": "T_new_388",
                 "width": "10",
                 "sp": "10"
               }
@@ -820,11 +826,11 @@ function Keyboard_tengwar()
             "id": "5",
             "key": [
               {
-                "nextlayer": "default",
-                "width": "130",
                 "id": "K_LCONTROL",
-                "sp": "1",
                 "text": "default",
+                "width": "130",
+                "sp": "1",
+                "nextlayer": "default",
                 "sk": [
                   {
                     "nextlayer": "shift-alt",
@@ -835,20 +841,20 @@ function Keyboard_tengwar()
                 ]
               },
               {
-                "width": "140",
                 "id": "K_LOPT",
-                "sp": "1",
-                "text": "*Menu*"
+                "text": "*Menu*",
+                "width": "140",
+                "sp": "1"
               },
               {
-                "width": "930",
-                "id": "K_SPACE"
+                "id": "K_SPACE",
+                "width": "930"
               },
               {
-                "width": "145",
                 "id": "K_ENTER",
-                "sp": "1",
-                "text": "*Enter*"
+                "text": "*Enter*",
+                "width": "145",
+                "sp": "1"
               }
             ]
           }
@@ -897,10 +903,10 @@ function Keyboard_tengwar()
                 "id": "K_EQUAL"
               },
               {
-                "width": "100",
                 "id": "K_BKSP",
-                "sp": "1",
-                "text": "*BkSp*"
+                "text": "*BkSp*",
+                "width": "100",
+                "sp": "1"
               }
             ]
           },
@@ -909,8 +915,8 @@ function Keyboard_tengwar()
             "key": [
               {
                 "id": "K_Q",
-                "pad": "75",
-                "text": ":"
+                "text": ":",
+                "pad": "75"
               },
               {
                 "id": "K_W"
@@ -948,6 +954,7 @@ function Keyboard_tengwar()
                 "id": "K_RBRKT"
               },
               {
+                "id": "T_new_418",
                 "width": "10",
                 "sp": "10"
               }
@@ -1004,10 +1011,10 @@ function Keyboard_tengwar()
             "id": "4",
             "key": [
               {
-                "width": "160",
                 "id": "K_SHIFT",
-                "sp": "1",
-                "text": "*Shift*"
+                "text": "*Shift*",
+                "width": "160",
+                "sp": "1"
               },
               {
                 "id": "K_oE2"
@@ -1045,6 +1052,7 @@ function Keyboard_tengwar()
                 "id": "K_SLASH"
               },
               {
+                "id": "T_new_444",
                 "width": "10",
                 "sp": "10"
               }
@@ -1054,11 +1062,11 @@ function Keyboard_tengwar()
             "id": "5",
             "key": [
               {
-                "nextlayer": "default",
-                "width": "130",
                 "id": "K_LCONTROL",
-                "sp": "1",
                 "text": "default",
+                "width": "130",
+                "sp": "1",
+                "nextlayer": "default",
                 "sk": [
                   {
                     "nextlayer": "alt",
@@ -1069,20 +1077,20 @@ function Keyboard_tengwar()
                 ]
               },
               {
-                "width": "140",
                 "id": "K_LOPT",
-                "sp": "1",
-                "text": "*Menu*"
+                "text": "*Menu*",
+                "width": "140",
+                "sp": "1"
               },
               {
-                "width": "930",
-                "id": "K_SPACE"
+                "id": "K_SPACE",
+                "width": "930"
               },
               {
-                "width": "145",
                 "id": "K_ENTER",
-                "sp": "1",
-                "text": "*Enter*"
+                "text": "*Enter*",
+                "width": "145",
+                "sp": "1"
               }
             ]
           }
