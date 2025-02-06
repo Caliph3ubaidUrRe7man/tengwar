@@ -61,7 +61,37 @@
       <FileType>.ico</FileType>
     </File>
     <File>
-      <Name>TengwarFormalCSUR.ttf</Name>
+      <Name>help\typing-guide-desktop.png</Name>
+      <Description>File typing-guide-desktop.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>help\typing-guide-desktop-alternate.png</Name>
+      <Description>File typing-guide-desktop-alternate.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>help\typing-guide-desktop-alternate-shifted.png</Name>
+      <Description>File typing-guide-desktop-alternate-shifted.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>help\typing-guide-desktop-shifted.png</Name>
+      <Description>File typing-guide-desktop-shifted.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>help\tengwar.php</Name>
+      <Description>File tengwar.php</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.php</FileType>
+    </File>
+    <File>
+      <Name>tengwar\TengwarFormalCSUR.ttf</Name>
       <Description>Font Tengwar Formal CSUR</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.ttf</FileType>
@@ -72,8 +102,8 @@
       <Name>Tengwar</Name>
       <ID>tengwar</ID>
       <Version>1.0</Version>
-      <OSKFont>TengwarFormalCSUR.ttf</OSKFont>
-      <DisplayFont>TengwarFormalCSUR.ttf</DisplayFont>
+      <OSKFont>tengwar\TengwarFormalCSUR.ttf</OSKFont>
+      <DisplayFont>tengwar\TengwarFormalCSUR.ttf</DisplayFont>
       <Languages>
         <Language ID="tfb-Teng">tfb (Tengwar)</Language>
       </Languages>
