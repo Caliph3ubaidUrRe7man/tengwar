@@ -20,7 +20,7 @@
     <Name URL="">Tengwar</Name>
     <Copyright URL="">Copyright © 3ubaidUrRe7man</Copyright>
     <Author URL="mailto:3ubaidUrRe7man@murena.io">3ubaidUrRe7man</Author>
-    <Description URL="">Tengwar Keyboard--As seen on https://freetengwar.sourceforge.net</Description>
+    <Description URL="">Tengwar Keyboard--As seen on https://freetengwar.sourceforge.net. This keyboard is using Private Use Area codepoints since Tengwar is not in Unicode.</Description>
     <Version URL=""></Version>
   </Info>
   <Files>
@@ -91,7 +91,7 @@
       <FileType>.php</FileType>
     </File>
     <File>
-      <Name>tengwar\TengwarFormalCSUR.ttf</Name>
+      <Name>..\..\..\shared\fonts\tengwar\TengwarFormalCSUR.ttf</Name>
       <Description>Font Tengwar Formal CSUR</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.ttf</FileType>
@@ -102,8 +102,8 @@
       <Name>Tengwar</Name>
       <ID>tengwar</ID>
       <Version>1.0</Version>
-      <OSKFont>tengwar\TengwarFormalCSUR.ttf</OSKFont>
-      <DisplayFont>tengwar\TengwarFormalCSUR.ttf</DisplayFont>
+      <OSKFont>..\..\..\shared\fonts\tengwar\TengwarFormalCSUR.ttf</OSKFont>
+      <DisplayFont>..\..\..\shared\fonts\tengwar\TengwarFormalCSUR.ttf</DisplayFont>
       <Languages>
         <Language ID="tfb-Teng">tfb (Tengwar)</Language>
       </Languages>

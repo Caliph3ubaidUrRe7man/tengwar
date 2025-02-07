@@ -3,40 +3,40 @@
   <ViewState>
     <tab>3</tab>
     <showhelp>1</showhelp>
-    <path>D:\MEGA\tengwar\tengwar.kpj</path>
+    <path>D:\keyboards\experimental\t\tengwar\tengwar.kpj</path>
   </ViewState>
   <FileStates>
     <FileState>
       <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
-      <FullPath>D:\MEGA\tengwar\HISTORY.md</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\HISTORY.md</FullPath>
     </FileState>
     <FileState>
       <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
-      <FullPath>D:\MEGA\tengwar\LICENSE.md</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\LICENSE.md</FullPath>
     </FileState>
     <FileState>
       <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
-      <FullPath>D:\MEGA\tengwar\README.md</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\README.md</FullPath>
     </FileState>
     <FileState>
       <ID>id_48515bf6fb91e3dba4ad1e724461ecc1</ID>
-      <FullPath>D:\MEGA\tengwar\tengwar.kpj</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\tengwar.kpj</FullPath>
     </FileState>
     <FileState>
       <ID>id_68d402ee9c7b9ea49c1299c068da9ba8</ID>
-      <FullPath>D:\MEGA\tengwar\tengwar.kpj.user</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\tengwar.kpj.user</FullPath>
     </FileState>
     <FileState>
       <ID>id_8da344c4cea6f467013357fe099006f5</ID>
-      <FullPath>D:\MEGA\tengwar\source\readme.htm</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\source\readme.htm</FullPath>
     </FileState>
     <FileState>
       <ID>id_743ad11bb7baf2f2a00c05cdb2acbe3e</ID>
-      <FullPath>D:\MEGA\tengwar\source\tengwar.ico</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\source\tengwar.ico</FullPath>
     </FileState>
     <FileState>
       <ID>id_6a8864bb9ef65cd0eafdaedf72001cff</ID>
-      <FullPath>D:\MEGA\tengwar\source\tengwar.kmn</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\source\tengwar.kmn</FullPath>
       <IDEState>
         <LayoutDisplay102Key>1</LayoutDisplay102Key>
         <DebugDefaultFont>1</DebugDefaultFont>
@@ -48,7 +48,7 @@
     </FileState>
     <FileState>
       <ID>id_43e91519fb7f2d6af29e6597ee253fc0</ID>
-      <FullPath>D:\MEGA\tengwar\source\tengwar.kps</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\source\tengwar.kps</FullPath>
       <IDEState>
         <CodeFont>Consolas|-9|   |0</CodeFont>
         <CharFont>Consolas|-9|   |0</CharFont>
@@ -56,47 +56,47 @@
     </FileState>
     <FileState>
       <ID>id_9319bd094e562b5f82e827eed8a6b332</ID>
-      <FullPath>D:\MEGA\tengwar\source\tengwar.kvks</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\source\tengwar.kvks</FullPath>
     </FileState>
     <FileState>
       <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
-      <FullPath>D:\MEGA\tengwar\source\welcome.htm</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\source\welcome.htm</FullPath>
     </FileState>
     <FileState>
       <ID>id_e6268b8d0b2c5011c9a37c7894f475ee</ID>
-      <FullPath>D:\MEGA\tengwar\source\..\build\tengwar.kmx</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\source\..\build\tengwar.kmx</FullPath>
     </FileState>
     <FileState>
       <ID>id_05fe2e578d8fdc9121858fb8a470aade</ID>
-      <FullPath>D:\MEGA\tengwar\source\..\build\tengwar.kvk</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\source\..\build\tengwar.kvk</FullPath>
     </FileState>
     <FileState>
       <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
-      <FullPath>D:\MEGA\tengwar\source\..\LICENSE.md</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\source\..\LICENSE.md</FullPath>
     </FileState>
     <FileState>
       <ID>id_9d0e5b4e161ab742beb7baaa3ee15d9d</ID>
-      <FullPath>D:\MEGA\tengwar\source\help\typing-guide-desktop.png</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\source\help\typing-guide-desktop.png</FullPath>
     </FileState>
     <FileState>
       <ID>id_9d1a6340637caadc1e2a5439ac5c7082</ID>
-      <FullPath>D:\MEGA\tengwar\source\help\typing-guide-desktop-alternate.png</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\source\help\typing-guide-desktop-alternate.png</FullPath>
     </FileState>
     <FileState>
       <ID>id_51f4bf8df7b33ae5f2bedaca725a7b5e</ID>
-      <FullPath>D:\MEGA\tengwar\source\help\typing-guide-desktop-alternate-shifted.png</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\source\help\typing-guide-desktop-alternate-shifted.png</FullPath>
     </FileState>
     <FileState>
       <ID>id_2ba650c0122ca4db165e628b86191042</ID>
-      <FullPath>D:\MEGA\tengwar\source\help\typing-guide-desktop-shifted.png</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\source\help\typing-guide-desktop-shifted.png</FullPath>
     </FileState>
     <FileState>
       <ID>id_a9da4d29353cfb107459da875a2d4292</ID>
-      <FullPath>D:\MEGA\tengwar\source\help\tengwar.php</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\source\help\tengwar.php</FullPath>
     </FileState>
     <FileState>
-      <ID>id_6163a7bcf3953066f20b902fa653379f</ID>
-      <FullPath>D:\MEGA\tengwar\source\tengwar\TengwarFormalCSUR.ttf</FullPath>
+      <ID>id_263a85d3146bc86fbb5a6e5f9ec3b66f</ID>
+      <FullPath>D:\keyboards\experimental\t\tengwar\source\..\..\..\shared\fonts\tengwar\TengwarFormalCSUR.ttf</FullPath>
     </FileState>
   </FileStates>
   <MRU>
@@ -104,13 +104,13 @@
       <ID>id_MRU0</ID>
       <Filename>tengwar.kps</Filename>
       <FileType>.kps</FileType>
-      <FullPath>D:\MEGA\tengwar\source\tengwar.kps</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\source\tengwar.kps</FullPath>
     </File>
     <File>
       <ID>id_MRU1</ID>
       <Filename>tengwar.kmn</Filename>
       <FileType>.kmn</FileType>
-      <FullPath>D:\MEGA\tengwar\source\tengwar.kmn</FullPath>
+      <FullPath>D:\keyboards\experimental\t\tengwar\source\tengwar.kmn</FullPath>
     </File>
   </MRU>
 </KeymanDeveloperProjectUser>
